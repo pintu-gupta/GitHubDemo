@@ -1,1 +1,2 @@
 Test File for commiting first change to Git
+Test File for commiting second change to Git
